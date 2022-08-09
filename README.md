@@ -23,4 +23,4 @@ The purpose of this exercise is to create a simple calendar application to save 
 
 ## Link to Deployed Site
 
-- https://jameslphan.github.io/mod1_homework/
+- https://jameslphan.github.io/mod5_homework_planner/
