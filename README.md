@@ -1,31 +1,26 @@
-# Code Refactor Exercise
+# Workday Planner Scheduler
 
-The purpose of this exercise is to refactor the code to meet acceptance criterias with the end goal of optimizing visibility for search engines.
+The purpose of this exercise is to create a simple calendar application to save events by the hour and will feature dynamically updated HTML and CSS powered by jQuery.
 
 ## Acceptance Criteria
 
-1. Source code uses semantic HTML elements.
-2. HTML elements follow logical structure independent  of styling and positioning.
-3. Implimentation of accessible alt attributes for image elements.
-4. Heading attributes fall in sequential order.
-5. Title element is concise and descriptive.
-6. Styling sheet is condensed, organized, and comments added for ease of understanding.
+1. Current date is displayed at top of calendar.
+2. Features timeblocks for standard 9-5 business hours.
+3. Each timeblock is color coded to indicate past, present, and future.
+4. Text can be typed in text area to enter event info.
+5. Save button operates to store in local storage.
+6. When page refresh, tasks inputed in text area persists.
 
-## Benefits of Semantic HTML
+## Project Lessons
 
-* Improved accessibility for those with disabilities and curbs legal complications.
-* Improved SEO (Search Engine Optimization)
-* Improved ease of use and understanding, allowing other developers to work and maintain.
+* Learn to use third-party APIs.
+* Used jQuery to build out HTML.
+* Used JSON to store tasks to local storage.
 
 ## Screenshot
 
-![Website Visually Unchanged](/assets/images/Dynamic%20Marketing%20Strategies.png "Marketing Agency")
-![Website Visually Unchanged](/assets/images/Dynamic%20Marketing%20Strategies2.png "Marketing Agency")
-![Website Visually Unchanged](/assets/images/Dynamic%20Marketing%20Strategies3.png "Marketing Agency")
+![Website Visually Unchanged](/assets/images/Work%20Day%20Scheduler.jpg "Workday Planner")
 
 ## Link to Deployed Site
 
 - https://jameslphan.github.io/mod1_homework/
-
-### Credits
-- Author of original code: Xandromus (No license) - coding-boot-camp/urban-octo-telegram.
